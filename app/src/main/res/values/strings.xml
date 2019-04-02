@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Jewerly</string>
+    <string name="create_jewels">Create your jewels</string>
+    <string name="title_Main">Create beautiful jewelry with different materials</string>
+    <string name="txt_list_title">Jewelry list</string>
+    <string name="view_orders">View Orders</string>
+    <string name="jewel_type">Type of jewelry</string>
+    <string name="choose_material">Choose the material</string>
+    <string name="choose_stone">Choose the stone</string>
+    <string name="signature">Add a signature on the jewel</string>
+    <string name="txt_signature">What do you want to write in the jewel?</string>
+    <string name="btn_order">Buy jewel</string>
+    <string name="toast_done">An item has been added to the order list!</string>
+    <string name="toast_error_signature">The signature can not be empty!</string>
+    <string name="empty_order">There is not orders here!</string>
+    <string name="material">Material: </string>
+    <string name="stone">Stone: </string>
+    <string name="signature_view">Signature:</string>
+    <string name="silver">Silver</string>
+    <string name="steel">Steel</string>
+    <string name="gold">Gold</string>
+    <string name="ruby">Ruby</string>
+    <string name="emerald">Emerald</string>
+    <string name="quartz">Quartz</string>
+    <string name="chain">Chain</string>
+    <string name="bracelet">Bracelet</string>
+
+
+
+    <string-array name="Menu">
+        <item>@string/create_jewels</item>
+        <item>@string/view_orders</item>
+    </string-array>
+
+
+    <string-array name="jewel_type">
+        <item>@string/chain</item>
+        <item>@string/bracelet</item>
+    </string-array>
+
+
+    <string-array name="materials">
+        <item>@string/silver</item>
+        <item>@string/steel</item>
+        <item>@string/gold</item>
+
+    </string-array>
+
+    <string-array name="stones">
+        <item>@string/ruby</item>
+        <item>@string/emerald</item>
+        <item>@string/quartz</item>
+    </string-array>
+</resources>
