@@ -8,11 +8,11 @@
     <string name="choose_material">Choose the material</string>
     <string name="choose_stone">Choose the stone</string>
     <string name="signature">Add a signature on the jewel</string>
-    <string name="txt_signature">What do you want to write in the jewel?</string>
+    <string name="txt_signature">¿What do you want to write in the jewel?</string>
     <string name="btn_order">Buy jewel</string>
-    <string name="toast_done">An item has been added to the order list!</string>
-    <string name="toast_error_signature">The signature can not be empty!</string>
-    <string name="empty_order">There is not orders here!</string>
+    <string name="toast_done">!An item has been added to the order list!</string>
+    <string name="toast_error_signature">!The signature can not be empty!</string>
+    <string name="empty_order">!There is not orders here!</string>
     <string name="material">Material: </string>
     <string name="stone">Stone: </string>
     <string name="signature_view">Signature:</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Joyeria</string>
+    <string name="app_name">Joyería</string>
     <string name="create_jewels">Crea tus Joyas</string>
     <string name="title_Main">Crea hermosas joyas con diferentes materiales</string>
     <string name="txt_list_title">Lista de joyas</string>
@@ -24,5 +24,5 @@
     <string name="emerald">Esmeralda</string>
     <string name="quartz">Cuarzo</string>
     <string name="chain">Cadena</string>
-    <string name="bracelet">Pulcera</string>
+    <string name="bracelet">Pulsera</string>
 </resources>
